@@ -1,0 +1,22 @@
+# OS / editors
+.DS_Store
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Local environment / secrets
+.env
+.env.*
+!.env.example
+
+# Generic build/cache/temp output
+.cache/
+.tmp/
+tmp/
+build/
+dist/
+coverage/
+
+# Logs
+*.log
